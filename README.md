@@ -14,4 +14,4 @@ Versi Indonesia
 BoT adalah Bluetooth of Think. Dimana sebuah pikiran buatan dibuat dan diterapkan pada sistem, menggunakan jaringan Bluetooth sebagai jabat tangan antara pengguna dan sistem sebagai penghubung yang dapat menjalankan perintah dari pengguna.
 
 ## Klati Pintar
-Klati Pintar adalah sebuah nama untuk proyek pengembangan Bluetooth of Think (BoT). #1 Penemuan Pertama yang mengkombinasikan dan mengembangkan perangkat sistem arduino dengan alat rumah tangga atau lain sebagainya. Agar memudahkan masyarakat dalam aktifitas/kegiatan hanya melalui perintah dari aplikasi android! Pengembang aplikasi ialah seorang anak yang lahir di Kebon Kelapa Tinggi RW 008, Utan Kayu Selatan, Matraman, Jakarta Timur.
+Klati Smart atau Klati Pintar adalah sebuah nama untuk proyek pengembangan Bluetooth of Think (BoT). #1 Penemuan Pertama yang mengkombinasikan dan mengembangkan perangkat sistem arduino dengan alat rumah tangga atau lain sebagainya. Agar memudahkan masyarakat dalam aktifitas/kegiatan hanya melalui perintah dari aplikasi android! Pengembang aplikasi ialah seorang anak yang lahir di Kebon Kelapa Tinggi RW 008, Utan Kayu Selatan, Matraman, Jakarta Timur.
