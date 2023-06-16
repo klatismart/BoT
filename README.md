@@ -1,4 +1,4 @@
-#lang en
+# Lang en
 English Version
 
 ## What is BoT
@@ -7,7 +7,7 @@ BoT is the Bluetooth of Think. Where an artificial mind is created and applied t
 ## Klati Smart
 Klati Pintar is a name for the Bluetooth of Think (BoT) development project. #1 The first invention to combine and develop arduino device systems with household appliances or so on. In order to facilitate the community in activities/activities only through commands from the Android application! The application developer is a child who was born in Kebon Kelapa Tinggi RW 008, Utan Kayu Selatan, Matraman, East Jakarta.
 
-#lang in
+# Lang in
 Versi Indonesia
 
 ## Apa itu BoT?
